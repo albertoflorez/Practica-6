@@ -1,0 +1,1 @@
+﻿No se puede expresar que cada álbum tenga varias canciones, sólo que todas las canciones aparecen en la relación "aparece".

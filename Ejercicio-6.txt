@@ -1,0 +1,3 @@
+﻿2)tendriamos que hacer que el precio dejase de ser un atributo de la relación vende y pasase a ser un atributo del conjunto medicamento
+
+3) tendriamos que hacer que de la relación receta saliera una nueva entidad recetas que tuviera como atributos especificaciones de las recetas(por ejemplo: fecha,id,...)
